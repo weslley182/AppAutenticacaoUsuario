@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Aula02</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtLogin">Login</string>
+    <string name="edtLogin">Digite seu login</string>
+    <string name="txtSenha">Senha</string>
+    <string name="btnLogar">Logar</string>
+    <string name="mn_novo">Novo Item</string>
+    <string name="mn_configuracoes">Configurações</string>
+    <string name="mn_sair">Sair</string>
+    <string name="mn_sobre">Sobre o APP</string>
+    <string name="title_activity_sobre">SobreActivity</string>
+    <string name="title_activity_bem_vindo">Bem vindo</string>
+    <string name="txtBemVindo">Bem vindo</string>
+    <string name="msg_usuario_invalido">Usuário inválido</string>
+    <string name="edtSIte">Digite o site que voce quer acessar</string>
+    <string name="title_activity_books">Livros</string>
+    <string name="mn_bemvindo">Bem vindo</string>
+    <string name="editar">Editar</string>
+    <string name="delete">Remover</string>
+</resources>

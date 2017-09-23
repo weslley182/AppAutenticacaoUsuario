@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.edu.unicesumar.aula02.BooksActivity">
+
+    <item
+        android:id="@+id/mn_tela_bem_vindo"
+        android:showAsAction="never"
+        android:title="@string/mn_bemvindo" />
+</menu>

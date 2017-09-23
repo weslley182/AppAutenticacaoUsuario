@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.edu.unicesumar.aula02.SobreActivity">
+
+    <item android:id="@+id/mn_sair"
+        android:title="@string/mn_sair"
+        android:showAsAction="never"/>
+
+</menu>

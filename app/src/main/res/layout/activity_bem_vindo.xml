@@ -1,0 +1,28 @@
+<LinearLayout
+    android:layout_height="match_parent" android:layout_width="match_parent" android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:text="@string/txtBemVindo"
+        android:id="@+id/txtBoasVindas"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:id="@+id/edtSite"
+        android:hint="@string/edtSIte"/>
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:src="@android:drawable/ic_menu_upload_you_tube"
+        android:id="@+id/btnSite"/>
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:src="@android:drawable/ic_menu_call"
+        android:id="@+id/btnLigar"/>
+
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:src="@android:drawable/ic_menu_camera"
+        android:id="@+id/btnCamera"/>
+
+    </LinearLayout>
